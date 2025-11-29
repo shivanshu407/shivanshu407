@@ -44,11 +44,6 @@ Here are some of the projects I've been working on:
 - **[Digital Logic Circuits using Intel FPGA](https://github.com/shivanshu407/Digital-Logic-Circuits-using-Intel-FPGA)**  
   ⚡ Combinational & sequential circuit designs implemented on Intel FPGA.  
 
-## 🎯 Goals  
-
-✔️ Improve **Verilog design and verification** skills.  
-✔️ Contribute to **AI and ML open-source projects**.  
-✔️ Work on **IoT, VLSI design, and other emerging technologies**.  
 
 ## 📫 Let's Connect!  
 
