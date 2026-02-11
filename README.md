@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A500FD&center=true&vCenter=true&width=435&lines=Software+Developer;Hardware+Enthusiast;ML+%7C+FPGA+%7C+Verilog+%7C+IoT;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer;Hardware+Enthusiast;ML+%7C+FPGA+%7C+Verilog+%7C+IoT;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,19 +37,17 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 
 ## 🏆 GitHub Trophies
 
-<!-- Replace YOUR-TROPHY-APP with your Vercel deployment name -->
 <p align="center">
-  <img src="https://YOUR-TROPHY-APP.vercel.app/?username=shivanshu407&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivanshu407&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<!-- Replace YOUR-STATS-APP with your Vercel deployment name -->
 <p align="center">
-  <img src="https://YOUR-STATS-APP.vercel.app/api?username=shivanshu407&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://YOUR-STATS-APP.vercel.app/api/top-langs/?username=shivanshu407&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanshu407&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu407&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -62,9 +60,16 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 
 ---
 
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshu407&theme=redical&hide_border=true" />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
-<!-- This works after the GitHub Actions workflow runs at least once -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivanshu407/shivanshu407/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
