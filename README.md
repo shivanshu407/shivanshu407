@@ -46,7 +46,7 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 
 <p align="center">
   <a href="https://github.com/shivanshu407/F1-Lap-Dashboard">
-    <img src="https://f1-lap-dashboard.vercel.app/api/card?username=shivanshu407&theme=ferrari" alt="F1 Lap Dashboard" />
+    <img src="https://f1-lap-dashboard.vercel.app/api/card?username=shivanshu407&theme=redbull" alt="F1 Lap Dashboard" />
   </a>
 </p>
 
@@ -78,7 +78,7 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshu407&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=shivanshu407&theme=radical&hide_border=true" />
 </p>
 
 ---
