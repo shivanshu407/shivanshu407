@@ -87,7 +87,7 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 
 <!-- This works after the GitHub Actions workflow runs at least once -->
 <p align="center">
-  <img src="https://contribution-snake-sigma.vercel.app/api?username=shivanshu407&palette=purple" alt="Snake animation" />
+  <img src="https://contribution-snake.vercel.app/api?username=shivanshu407&palette=purple" />
 </p>
 
 ---
