@@ -92,14 +92,6 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 
 ---
 
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
 ## 📫 Let's Connect!
 
 <p align="center">
