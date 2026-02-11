@@ -63,7 +63,7 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 ## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshu407&theme=redical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanshu407&theme=radical&hide_border=true" />
 </p>
 
 ---
