@@ -78,7 +78,7 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats-sigma.vercel.app/api?user=shivanshu407&hide_border=true" />
+  <img src="https://streak-stats-three-lilac.vercel.app/api?user=shivanshu407" />
 </p>
 
 ---
