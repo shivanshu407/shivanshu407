@@ -42,6 +42,20 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 
 ---
 
+## 🏎️ F1 Lap Dashboard
+
+<p align="center">
+  <a href="https://github.com/shivanshu407/F1-Lap-Dashboard">
+    <img src="https://f1-lap-dashboard.vercel.app/api/card?username=shivanshu407&theme=ferrari" alt="F1 Lap Dashboard" />
+  </a>
+</p>
+
+<p align="center">
+  <em>My GitHub stats as an F1 telemetry dashboard — <a href="https://github.com/shivanshu407/F1-Lap-Dashboard">deploy your own!</a></em>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <!-- Replace YOUR-TROPHY-APP with your Vercel deployment name -->
@@ -101,4 +115,4 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shivanshu407.shivanshu407" />
-</p>
+</p>\n
