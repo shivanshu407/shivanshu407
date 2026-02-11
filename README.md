@@ -46,7 +46,7 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 
 <p align="center">
   <a href="https://github.com/shivanshu407/F1-Lap-Dashboard">
-    <img src="https://f1-lap-dashboard.vercel.app/api/card?username=shivanshu407&theme=redbull&cache_seconds=1800&v=2" alt="F1 Lap Dashboard" />
+    <img src="https://f1-lap-dashboard.vercel.app/api/card?username=shivanshu407&theme=redbull" alt="F1 Lap Dashboard" />
   </a>
 </p>
 
@@ -87,7 +87,7 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 
 <!-- This works after the GitHub Actions workflow runs at least once -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivanshu407/shivanshu407/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://contribution-snake-sigma.vercel.app/api?username=shivanshu407&palette=purple" alt="Snake animation" />
 </p>
 
 ---
