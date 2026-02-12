@@ -56,25 +56,6 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 
 ---
 
-## 🏆 GitHub Trophies
-
-<!-- Replace YOUR-TROPHY-APP with your Vercel deployment name -->
-<p align="center">
-  <img src="https://YOUR-TROPHY-APP.vercel.app/?username=shivanshu407&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<!-- Replace YOUR-STATS-APP with your Vercel deployment name -->
-<p align="center">
-  <img src="https://YOUR-STATS-APP.vercel.app/api?username=shivanshu407&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://YOUR-STATS-APP.vercel.app/api/top-langs/?username=shivanshu407&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 🔥 Streak Stats
 
 <p align="center">
@@ -83,14 +64,6 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 
 ---
 
-## 🐍 Contribution Snake
-
-<!-- This works after the GitHub Actions workflow runs at least once -->
-<p align="center">
-  <img src="https://contribution-snake.vercel.app/api?username=shivanshu407&palette=purple" />
-</p>
-
----
 
 ## 📫 Let's Connect!
 
