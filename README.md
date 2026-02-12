@@ -14,7 +14,7 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 
 - 🌱 **Currently Learning:** Advanced **Verilog design & verification**, AI/ML, and FPGA programming.
 - 💬 **Ask me about:** Python, machine learning, digital logic design, FPGA development, and hardware accelerators.
-- ⚡ **Fun Fact:** I love bridging the gap between software intelligence and hardware acceleration!
+- bridging the gap between software intelligence and hardware acceleration!
 
 ---
 
