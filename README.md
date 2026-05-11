@@ -1,4 +1,4 @@
-# shivanshu mishra
+# Shivanshu Mishra
 ### *Professional Vibe Coder™ — I don't write bugs, I ship features with ~personality~*
 
 <p align="center">
